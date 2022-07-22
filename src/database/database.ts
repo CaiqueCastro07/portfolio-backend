@@ -1,12 +1,16 @@
 //@ts-nocheck
 import mongoose from "mongoose"
-import * as config from "../../config/environments.json"
-
-const databaseUrl = config.default.default.database
+import dotenv from "dotenv"
+dotenv.config()
 
 const startMongo = async () => {
 
-  await mongoose.connect(databaseUrl, {
+  if(!process?.env?.DB){
+    logger.error("Mongo URL não localizada na variável de ambiente, por favor configure antes de iniciar.")
+    return
+  }
+
+  await mongoose.connect(process.env.DB, {
     useNewUrlParser: true,
     useUnifiedTopology: true
   })
