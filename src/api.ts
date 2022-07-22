@@ -21,6 +21,10 @@ const startServer = () => {
   api.use(express.urlencoded({ extended: true, limit: '100mb' }))
   api.use(cors({origin: true, credentials: false}));
 
+  api.get("/", (req, res) => {
+    return res.status(200).json({ status: 200, online: true, integration:"Portfolio Pessoal", time: Date.now() })
+  })
+
   api.post('/login',cors(),login)
   api.post('/register',cors(),registerUser)
   api.get('/tasks', cors(), getTasks)
