@@ -8,7 +8,7 @@ import logger from "../../config/winston"
 
 const getTasks = async (req: Request, res: Response): Promise<Response> => {
 
-    const { userid } = req?.headers;
+    const { userid } = req?.headers || {};
 
     if (!userid || typeof userid != 'string') return response(400, "Usuário não enviado.", true, {}, res);
 

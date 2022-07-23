@@ -8,7 +8,7 @@ import logger from "../../config/winston"
 
 const deleteTask = async (req: Request, res: Response): Promise<Response> => {
     //@ts-ignore
-    const { id }: string = req?.params, { userid }: string = req?.headers
+    const { id }: string = req?.params || {}, { userid }: string = req?.headers || {}
 
     if (!id || typeof id != 'string') return response(400, "Erro ao deletar tarefa, o id da tarefa não foi enviado", false, req?.params, res);
     if (!userid || typeof userid != 'string') return response(400, "Erro ao deletar tarefa, o usuario não foi enviado", false, {}, res);
