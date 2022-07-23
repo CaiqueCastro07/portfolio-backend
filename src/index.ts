@@ -52,8 +52,6 @@ const run = async () => {
         process.exit(0)
       }))
 
-    logger.info("Aplicação iniciada com sucesso.")
-
   } catch (err) {
     logger.error("Falha ao iniciar a aplicação devido a " + err)
     process.exit(1)

@@ -7,7 +7,7 @@ import { updateTaskInDatabase } from '../database/databaseServices'
 
 const updateTask = async (req: Request, res: Response): Promise<Response> => {
     //@ts-ignore
-    const { id }:string = req?.params, { val }:string = req?.body, { userid }:string = req?.headers
+    const { id }:string = req?.params || {}, { val }:string = req?.body || {}, { userid }:string = req?.headers || {}
 
     if (!id || typeof id != 'string') return response(400, "Erro ao atualizar tarefa, ID não enviado.", true, {}, res);
     if (typeof val != 'boolean' && typeof id != 'string') return response(400, "Erro ao atualizar tarefa, tipo do valor não permitido.", true, {}, res);
