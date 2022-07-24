@@ -34,7 +34,7 @@ const startServer = () => {
     const { authorization }: string = req?.headers || {};
 
     const apikey = authorization?.replace("Bearer ", "")
-    if (apikey != process.env.APIKEY) return res.status(401).json({ status: 401, message: "Not authorized." });
+    if (apikey != process?.env?.APIKEY) return res.status(401).json({ status: 401, message: "Not authorized." });
 
     next()
 
