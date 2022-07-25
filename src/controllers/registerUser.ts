@@ -19,7 +19,7 @@ const registerUser = async (req: Request, res: Response): Promise<Response> => {
     //@ts-ignore
     if (userCreated?.error) return response(400, "Erro ao registrar usuário.", true, userCreated?.error , res);
 
-    return response(200, "Usuário registrado com sucesso.", false, user, res);
+    return response(200, "Usuário registrado com sucesso.", false, user?.toLowerCase(), res);
 }
 
 export default registerUser
