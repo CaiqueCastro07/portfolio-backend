@@ -14,7 +14,7 @@ const login = async (req: Request, res: Response): Promise<Response> => {
     //@ts-ignore
     if (authorized?.error) return response(400, "Erro ao autorizar usuário", true, authorized?.error, res);
 
-    return response(200, "Usuário autorizado.", false, user, res);
+    return response(200, "Usuário autorizado.", false, user?.toLowerCase(), res);
 }
 
 export default login
