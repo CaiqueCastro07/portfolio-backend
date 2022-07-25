@@ -1,4 +1,4 @@
-# lold-back
+# Portfolio Backend
 
 ## Project setup
 ```
