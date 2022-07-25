@@ -135,7 +135,9 @@ const createUserInDatabase = async (user: string, email: string, password: strin
   if (!password || typeof password != 'string') return { error: "Password is not a string." }
 
   user = user?.trim()
+  user = user?.toLowerCase()
   email = email?.trim()
+  email = email?.toLowerCase()
   password = password?.trim()
 
   try {
@@ -168,6 +170,7 @@ const verifyUserCredentials = async (user: string, password: string): Promise<tr
   if (!password || typeof password != 'string') return { error: "Password is not a string." }
 
   user = user?.trim()
+  user = user.toLowerCase()
   password = password?.trim()
 
   try {
