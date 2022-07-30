@@ -152,14 +152,17 @@ const createUserInDatabase = async (user: string, email: string, password: strin
     if (!dbResult?.user) {
       //@ts-ignore
       logger.error(`##createUserInDatabase(${user}, ${email}, 'hidden') - Erro ao criar usuário - message: ${dbResult?.message || dbResult}`)
-      return { error: "Erro interno ao criar usuário, tente novamente mais tarde." }
+      return { error: "Internal error, try again later" }
     }
 
     return dbResult.user
 
   } catch (err) {
     logger.error(`##createUserInDatabase(${user}, ${email}, 'hidden') Erro ao criar usuário - message: ${err?.message || err?.errmsg} - code: ${err?.code}`)
-    return { error: "Erro interno ao criar usuário, tente novamente mais tarde." }
+    if (err?.message?.includes("duplicate")) {
+      return { error: "Email or username already exists." }
+    }
+    return { error: "Internal error, try again later" }
 
   }
 }
@@ -179,15 +182,15 @@ const verifyUserCredentials = async (user: string, password: string): Promise<tr
 
     const data = dbResult?.[0]
 
-    if (!data) return { error: "Usuário não encontrado." };
+    if (!data) return { error: "User not found" };
 
-    if (data?.password !== password) return { error: "Senha incorreta" }
+    if (data?.password !== password) return { error: "Invalid password" }
 
     return true
 
   } catch (err) {
     logger.error(`##verifyUserCredentials(${user}, 'hidden') Erro ao verificar credenciais do usuário - message: ${err?.message || err?.errmsg} - code: ${err?.code}`)
-    return { error: "Erro interno ao verificar credenciais de login, contate o suporte." }
+    return { error: "Internal error, try again later" }
   }
 
 }
