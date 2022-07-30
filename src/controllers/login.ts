@@ -12,7 +12,7 @@ const login = async (req: Request, res: Response): Promise<Response> => {
 
     const authorized = await verifyUserCredentials(user, password)
     //@ts-ignore
-    if (authorized?.error) return response(400, "Erro ao autorizar usuário", true, authorized?.error, res);
+    if (authorized?.error) return response(400, authorized?.error, true, authorized?.error, res);
 
     return response(200, "Usuário autorizado.", false, user?.toLowerCase(), res);
 }
