@@ -17,7 +17,7 @@ const registerUser = async (req: Request, res: Response): Promise<Response> => {
 
     const userCreated = await createUserInDatabase(user,email,password)
     //@ts-ignore
-    if (userCreated?.error) return response(400, "Erro ao registrar usuário.", true, userCreated?.error , res);
+    if (userCreated?.error) return response(400, userCreated?.error, true, userCreated?.error , res);
 
     return response(200, "Usuário registrado com sucesso.", false, user?.toLowerCase(), res);
 }
