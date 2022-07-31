@@ -3,8 +3,8 @@ version: '3.0'
 services:
   api:
     build: .
-    container_name: portfolio-backend
-    image: portfolio-backend
+    container_name: portfolio-node
+    image: portfolio-node
     command: npm start
     ports:
       - "3001:3001"
