@@ -9,7 +9,7 @@ import getTasks from "./controllers/getTasks"
 import updateTask from "./controllers/updateTask"
 import createTask from "./controllers/createTask"
 import deleteTask from "./controllers/deleteTask"
-
+import cors from "cors"
 // Create Express server
 const app = express();
 
@@ -23,6 +23,7 @@ mongoose.connect(mongoUrl, { useNewUrlParser: true, useCreateIndex: true, useUni
     logger.error(`MongoDB connection error:cv${err}`)
 });
 
+app.use(cors());
 app.set("port", process.env.PORT || 3001);
 app.use(compression());
 app.use(lusca.xssProtection(true));
