@@ -1,10 +1,7 @@
 import { Request, Response } from 'express'
-import { response } from '../helpers/helpers'
+import { response } from '../util/helpers'
 //@ts-ignore
-import { } from '../helpers/helpers'
-import { } from '../dto/objects/ObjectTypes'
 import { deleteAllTasksByStatusInDatabase, deleteTaskInDatabase } from '../database/databaseServices'
-import logger from "../../config/winston"
 
 const deleteTask = async (req: Request, res: Response): Promise<Response> => {
     //@ts-ignore

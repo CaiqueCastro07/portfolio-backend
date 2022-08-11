@@ -1,10 +1,8 @@
 import { Request, Response } from 'express'
-import { response } from '../helpers/helpers'
+import { response } from '../util/helpers'
 //@ts-ignore
-import { delay } from '../helpers/helpers'
-import { } from '../dto/objects/ObjectTypes'
 import { getTasksInDatabase } from '../database/databaseServices'
-import logger from "../../config/winston"
+import logger from "../util/logger"
 
 const getTasks = async (req: Request, res: Response): Promise<Response> => {
 

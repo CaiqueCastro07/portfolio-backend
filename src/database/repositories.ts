@@ -1,5 +1,5 @@
 import mongoose from "mongoose"
-
+//@ts-ignore
 const tasksEntity = new mongoose.Schema({
     user: {
         type: String,
