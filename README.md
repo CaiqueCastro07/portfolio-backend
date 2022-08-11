@@ -1,6 +1,6 @@
 # Portfolio Backend
 
-# Configure the MONGODB_URI and MONGODB_URI_LOCAL variables in in your .env file.
+Configure the MONGODB_URI and MONGODB_URI_LOCAL variables in in your .env file.
 
 ## Project setup
 ```
