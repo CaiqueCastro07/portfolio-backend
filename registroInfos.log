@@ -1,29 +1,8 @@
-{"level":"info","message":"Process pid: 28995","timestamp":"02/08/2022 08:04:58"}
-{"level":"info","message":"Process pid: 29064","timestamp":"02/08/2022 08:06:58"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:06:58"}
-{"level":"info","message":"Process pid: 29147","timestamp":"02/08/2022 08:08:15"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:08:16"}
-{"level":"info","message":"Process pid: 29224","timestamp":"02/08/2022 08:09:17"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:09:18"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:09:18"}
-{"level":"info","message":"Process pid: 29863","timestamp":"02/08/2022 08:21:29"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:21:31"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:21:31"}
-{"level":"info","message":"Process pid: 29979","timestamp":"02/08/2022 08:27:21"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:27:22"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:27:22"}
-{"level":"info","message":"Process pid: 30032","timestamp":"02/08/2022 08:30:50"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:30:51"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:30:51"}
-{"level":"info","message":"Process pid: 30056","timestamp":"02/08/2022 08:32:12"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:32:12"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:32:12"}
-{"level":"info","message":"Process pid: 30121","timestamp":"02/08/2022 08:35:18"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:35:19"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:35:19"}
-{"level":"info","message":"Process pid: 30152","timestamp":"02/08/2022 08:36:48"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:36:49"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:36:49"}
-{"level":"info","message":"Process pid: 30212","timestamp":"02/08/2022 08:46:50"}
-{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"02/08/2022 08:46:51"}
-{"level":"info","message":"Aplicação iniciada com sucesso. Porta:3001","timestamp":"02/08/2022 08:46:51"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 09:33:48"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 10:05:29"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 10:06:55"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 10:23:57"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 10:25:42"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 10:27:05"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 10:28:00"}
+{"message":"App is running at port 3001 in development mode.","level":"info","timestamp":"11/08/2022 10:37:05"}

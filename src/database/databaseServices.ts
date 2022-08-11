@@ -1,6 +1,7 @@
-import logger from '../../config/winston';
-import { Task } from '../dto/objects/ObjectTypes';
+
 import { tasksRepository } from './repositories';
+import { Task } from "../models/models";
+import logger from "../util/logger"
 
 const getTasksInDatabase = async (user: string): Promise<Task[] | false> => {
 
@@ -148,13 +149,13 @@ const createUserInDatabase = async (user: string, email: string, password: strin
       email,
       tasks: []
     })
-
+      //@ts-ignore
     if (!dbResult?.user) {
       //@ts-ignore
       logger.error(`##createUserInDatabase(${user}, ${email}, 'hidden') - Erro ao criar usuário - message: ${dbResult?.message || dbResult}`)
       return { error: "Internal error, try again later" }
     }
-
+      //@ts-ignore
     return dbResult.user
 
   } catch (err) {
@@ -183,7 +184,7 @@ const verifyUserCredentials = async (user: string, password: string): Promise<tr
     const data = dbResult?.[0]
 
     if (!data) return { error: "User not found" };
-
+      //@ts-ignore
     if (data?.password !== password) return { error: "Invalid password" }
 
     return true

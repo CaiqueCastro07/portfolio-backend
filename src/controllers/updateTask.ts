@@ -1,8 +1,6 @@
 import { Request, Response } from 'express'
-import { response } from '../helpers/helpers'
+import { response } from '../util/helpers'
 //@ts-ignore
-import { reverseJoinDate } from '../helpers/helpers'
-import { } from '../dto/objects/ObjectTypes'
 import { updateTaskInDatabase } from '../database/databaseServices'
 
 const updateTask = async (req: Request, res: Response): Promise<Response> => {
