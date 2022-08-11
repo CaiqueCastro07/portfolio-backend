@@ -13,9 +13,9 @@ const updateTask = async (req: Request, res: Response): Promise<Response> => {
 
     const updateTaskResult = await updateTaskInDatabase(id, userid, val)
 
-    if (!updateTaskResult) return response(500, "Houve um erro ao atualizar a tarefa. Contate o suporte.", false, {}, res);
+    if (!updateTaskResult) return response(500, "Houve um erro ao atualizar a tarefa. Contate o suporte.", true, {}, res);
 
-    return response(200, "Tarefa atualizada com sucesso.", false, { status: 200 }, res);
+    return response(200, "Tarefa atualizada com sucesso.", false, {}, res); //check {status:200}
 }
 
 export default updateTask

@@ -10,6 +10,7 @@ import updateTask from "./controllers/updateTask"
 import createTask from "./controllers/createTask"
 import deleteTask from "./controllers/deleteTask"
 import cors from "cors"
+import moment from "moment"
 // Create Express server
 const app = express();
 
@@ -31,7 +32,6 @@ app.use(express.urlencoded({ extended: true, limit: '100mb' }))
 app.use(compression());
 app.use(lusca.xssProtection(true));
 
-/*
 app.use((req, res, next) => {
     //@ts-ignore
     const { authorization }: string = req?.headers || {};
@@ -39,10 +39,10 @@ app.use((req, res, next) => {
     if (apikey != process?.env?.APIKEY) return res.status(401).json({ status: 401, message: "Not authorized." });
     next();
 });
-*/
 
 app.get("/", (_, res) => {
-    return res.status(200).json({ status: 200, online: true, integration: "Portfolio Pessoal", time: Date.now() });
+    const date = moment(new Date()).format("DD/MM/YYYY - hh:mm:ss")
+    return res.status(200).json({ status: 200, online: true, integration: "Portfolio Pessoal", time: date || Date.now() });
 });
 
 app.get('/tasks', getTasks)

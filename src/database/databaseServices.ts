@@ -57,15 +57,17 @@ const createTaskInDatabase = async (newTask: string, user: string): Promise<bool
 
     const dbResult = await tasksRepository.updateOne({ user }, { $push: { tasks: { task: newTask, priority: 0, done: false } } })
 
-    if (!dbResult?.modifiedCount) {
+    if (!dbResult?.modifiedCount && !dbResult?.nModified && !dbResult?.ok) {
       //@ts-ignore
-      logger.error(`##createTaskInDatabase(${newTask}, ${user}) Erro ao criar tarefa - message: ${dbResult?.message || dbResult?.errmsg || dbResult?.error} - code: ${dbResult?.code}`)
+          console.log(dbResult)
+      logger.error(`##createTaskInDatabase(${newTask}, ${user}) Erro ao criar tarefa - message: ${dbResult?.message || dbResult?.errmsg || dbResult?.error} - code/ok: ${dbResult?.code || dbResult?.ok}`)
       return false
     }
 
     return true
 
   } catch (err) {
+    console.log(err)
     logger.error(`##createTaskInDatabase(${newTask}, ${user}) Erro ao criar tarefa - message: ${err?.message || err?.errmsg} - code: ${err?.code}`)
     return false
   }
@@ -92,7 +94,7 @@ const updateTaskInDatabase = async (id: string, user: string, change: string | b
       { "user": user, "tasks._id": id },
       { "$set": { [`tasks.$.${toChange?.task ? "task" : "done"}`]: change } })
 
-    if (!dbResult?.modifiedCount) {
+    if (!dbResult?.modifiedCount && !dbResult?.nModified && !dbResult?.ok) {
       //@ts-ignore
       logger.error(`##updateTaskInDatabase(${id}, ${user}, ${change}) Erro ao atualizar tarefa - message: ${dbResult?.message || dbResult?.errmsg} - code: ${dbResult?.code}`)
       return false

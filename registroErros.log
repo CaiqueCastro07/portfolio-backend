@@ -1,1 +1,621 @@
 {"message":"Usuário não enviado. {}","level":"error","timestamp":"11/08/2022 10:29:30"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 16:41:26"}
+{"message":"##createTaskInDatabase(do the stank leg, testdummy) Erro ao criar tarefa - message: undefined - code: undefined","level":"error","timestamp":"11/08/2022 16:48:31"}
+{"message":"Erro ao criar tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 16:48:31"}
+{"message":"##createTaskInDatabase(do the stank leg, testdummy) Erro ao criar tarefa - message: undefined - code: undefined","level":"error","timestamp":"11/08/2022 16:49:38"}
+{"message":"Erro ao criar tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 16:49:38"}
+{"message":"##createTaskInDatabase(do the stank leg, testdummy) Erro ao criar tarefa - message: undefined - code: undefined","level":"error","timestamp":"11/08/2022 16:52:07"}
+{"message":"Erro ao criar tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 16:52:07"}
+{"message":"##createTaskInDatabase(do the stank leg, testdummy) Erro ao criar tarefa - message: undefined - code: undefined","level":"error","timestamp":"11/08/2022 16:54:12"}
+{"message":"Erro ao criar tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 16:54:12"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:07:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:09:54"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:15:25"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:16:48"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:16:48"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:18:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:18:14"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:20:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:20:13"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:21:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:21:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:25:57"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:25:58"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:25:58"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:25:58"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:27:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:27:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:27:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:27:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:27:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:31:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:31:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:31:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:31:13"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:31:13"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:32:07"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:32:07"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:32:07"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:32:07"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:32:08"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:37:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:37:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:37:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:37:04"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:37:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:37:04"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:38:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:38:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:38:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:38:24"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:38:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:38:24"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:39:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:39:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:39:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:39:33"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:39:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:39:33"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:47:35"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:47:35"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:47:35"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:47:35"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:47:35"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:47:35"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:52:42"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:52:42"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:57:26"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:57:26"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:57:26"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:57:26"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:57:26"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:57:26"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:58:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:58:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:58:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:58:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 17:58:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 17:58:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:01:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:01:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:01:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:01:23"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:01:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:01:23"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:05:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:06:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:06:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:06:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:06:59"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:06:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:06:59"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:07:00"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:07:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:07:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:07:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:07:59"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:07:59"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:07:59"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:08:00"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:09:31"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:09:31"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:09:31"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:09:31"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:09:31"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:09:31"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:09:32"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:09:32"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:11:01"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:15:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:15:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:15:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:15:03"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:15:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:15:03"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:15:04"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:15:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:15:04"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:16:00"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:17:09"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:17:09"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:17:09"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:17:09"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:17:09"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:17:10"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:17:10"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:17:10"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:17:10"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:17:10"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:20:04"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:20:05"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:20:05"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:20:05"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:21:04"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:22:18"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:29:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:29:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:29:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:29:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:29:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:29:56"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:29:57"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:29:57"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:29:57"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:29:57"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:29:57"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:29:57"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:34:24"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:34:25"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:34:25"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:39:40"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:40:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:43:33"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:52:41"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:54:43"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:54:43"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:54:43"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:54:43"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:54:43"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:54:43"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:54:44"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:54:44"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:54:44"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:54:44"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:54:44"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:54:44"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:59:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:59:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:59:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:59:13"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:59:13"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 18:59:14"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:59:14"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 18:59:14"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:59:14"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 18:59:14"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 18:59:14"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 18:59:14"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:04:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:04:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:04:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:04:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:04:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:04:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:10:17"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:11:14"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:17:39"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:18:10"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:25:29"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:28:02"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:29:23"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:29:24"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:29:24"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:30:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:30:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:30:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:30:03"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:30:03"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:30:03"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:30:03"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:30:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:30:04"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:30:04"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:30:04"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:30:04"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:30:04"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:30:04"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:31:54"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:31:55"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:31:55"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:31:55"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:31:55"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:33:20"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:35:12"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:40:41"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:44:16"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:45:16"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:49:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:52:42"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:53:55"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:53:56"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:56:23"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:56:25"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:57:43"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:43"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:43"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:57:44"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:57:46"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:58:28"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 19:58:29"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 19:58:29"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 19:58:29"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 19:58:29"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 19:58:29"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 20:02:37"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 20:02:38"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 20:02:38"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:03:49"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:03:49"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:03:49"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 20:03:50"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao criar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao criar tarefa, verifique os valores enviados. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao atualizar tarefa, usuário não enviado. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao atualizar tarefa, tipo do valor não permitido. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"##updateTaskInDatabase(ss1, testdummy, do the stank leg) Erro ao atualizar tarefa - message: Cast to ObjectId failed for value \"ss1\" at path \"_id\" for model \"tasks\" - code: undefined","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Houve um erro ao atualizar a tarefa. Contate o suporte. {}","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"##deleteTaskInDatabase(s22, testdummy) - Erro ao deletar tarefa - message: Cast to ObjectId failed for value \"s22\" at path \"_id\" - code: undefined","level":"error","timestamp":"11/08/2022 20:05:37"}
+{"message":"Erro ao deletar tarefa. Contate o suporte. {\"id\":\"s22\"}","level":"error","timestamp":"11/08/2022 20:05:37"}

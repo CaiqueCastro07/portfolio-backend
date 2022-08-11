@@ -6,7 +6,7 @@ if (fs.existsSync(".env")) {
     logger.debug("Using .env file to supply config environment variables");
     dotenv.config({ path: ".env" });
 } else {
-    logger.debug("Using .env.example file to supply config environment variables");
+    logger.debug("Using .env file to supply config environment variables");
 }
 export const ENVIRONMENT = process.env.NODE_ENV;
 const prod = ENVIRONMENT === "production"; // Anything else is treated as 'dev'
