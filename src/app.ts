@@ -25,6 +25,9 @@ mongoose.connect(mongoUrl, { useNewUrlParser: true, useCreateIndex: true, useUni
 
 app.use(cors());
 app.set("port", process.env.PORT || 3001);
+
+app.use(express.json({ limit: '100mb' }))
+app.use(express.urlencoded({ extended: true, limit: '100mb' }))
 app.use(compression());
 app.use(lusca.xssProtection(true));
 
