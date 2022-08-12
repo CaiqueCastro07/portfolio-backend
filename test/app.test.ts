@@ -6,11 +6,12 @@ dotenv.config()
 const userid = process.env.TEST_USER || "";
 const apikey = process.env.APIKEY || "";
 let taskId = '';
+
 let count = 0;
 
 describe("POST and GET tasks pre-tests.", () => {
 
-    it(`[${++count}] should create an task in the database.`, (done) => {
+    it(`[${++count}] !should create an task in the database.`, (done) => {
         request(app).post("/task")
             .set('Authorization', `Bearer ${apikey}`)
             .set('userid', userid)
@@ -24,7 +25,7 @@ describe("POST and GET tasks pre-tests.", () => {
             });
     })
 
-    it(`[${++count}] should return a JSON with an array of Tasks`, (done) => {
+    it(`[${++count}] !should return a JSON with an array of Tasks`, (done) => {
         request(app).get("/tasks")
             .set('Authorization', `Bearer ${apikey}`)
             .set('Authorization', `Bearer ${apikey}`)
@@ -94,7 +95,45 @@ describe("GET /", () => {
 
 });
 
+describe("GET /tasks", () => {
+    jest.setTimeout(10000)
 
+    it(`[${++count}] should return a JSON with the status 401.`, (done) => {
+        request(app).get("/tasks")
+            .set('Authorization', `Bearer 12345`)
+            .set('userid', userid)
+            .end(function (err, res) {
+                expect(res?.body?.status).toBe(401)
+                expect(typeof res?.body?.message).toBe('string')
+                done()
+            });
+    })
+
+    it(`[${++count}] should return a JSON with the status 400.`, (done) => {
+        request(app).get("/tasks")
+            .set('Authorization', `Bearer ${apikey}`)
+            .set('userid', "  ")
+            .end(function (err, res) {
+                expect(res?.body?.status).toBe(400)
+                expect(res?.body?.message).toBe('Usuário não enviado.')
+                expect(res?.body?.error).toBe(true)
+                done()
+            });
+    })
+
+    it(`[${++count}] should return a JSON with the status 400.`, (done) => {
+        request(app).get("/tasks")
+            .set('Authorization', `Bearer ${apikey}`)
+            .set('userid', "129u429faa")
+            .end(function (err, res) {
+                expect(res?.body?.status).toBe(500)
+                expect(res?.body?.message).toBe("Falha ao recuperar as tarefas. Contate o suporte")
+                expect(res?.body?.error).toBe(true)
+                done()
+            });
+    })
+
+})
 
 describe("POST /task", () => {
     jest.setTimeout(10000)
@@ -300,6 +339,7 @@ describe("DELETE /task/:id", () => {
                 expect(res?.body?.status).toBe(400)
                 expect(res?.body?.message).toBe('Erro ao deletar tarefa, o usuario não foi enviado')
                 expect(res?.body?.error).toBe(true)
+                expect(res?.body?.data).toStrictEqual({ error: { userid: "" } })
                 done()
             });
     })
@@ -312,7 +352,7 @@ describe("DELETE /task/:id", () => {
                 expect(res?.body?.status).toBe(500)
                 expect(res?.body?.message).toBe('Erro ao deletar tarefa. Contate o suporte.')
                 expect(res?.body?.error).toBe(true)
-                expect(res?.body?.data).toStrictEqual({ error: { id: 's22' } })
+                expect(res?.body?.data).toStrictEqual({ error: { id: 's22', userid } })
                 done()
             });
     })
@@ -331,3 +371,4 @@ describe("DELETE /task/:id", () => {
     })
 
 })
+

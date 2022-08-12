@@ -56,19 +56,8 @@ const reverseJoinDate = (date: string): String | false => {
 
 }
 
-const decodePassword = (pass: any, r: string) => {
-
-    //@ts-ignore
-    r = (+r.split("")?.reverse()?.join("")) - 117
-    pass = Object.values(pass).map((e: any) => e + r)
-    pass = String.fromCharCode.apply(null, pass)
-    return pass
-
-}
-
 export {
     response,
     delay,
-    reverseJoinDate,
-    decodePassword
+    reverseJoinDate
 }

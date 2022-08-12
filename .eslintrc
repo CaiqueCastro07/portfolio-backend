@@ -20,6 +20,7 @@
     "@typescript-eslint/no-explicit-any": 1,
     "@typescript-eslint/ban-ts-ignore": "off",
     "@typescript-eslint/ban-ts-nocheck": "off",
+    "@typescript-eslint/no-namespace": "off",
     "@typescript-eslint/no-inferrable-types": [
       "warn",
       {

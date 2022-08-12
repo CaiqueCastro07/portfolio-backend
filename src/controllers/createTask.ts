@@ -13,7 +13,7 @@ const createTask = async (req: Request, res: Response): Promise<Response> => {
 
     const taskCreated = await createTaskInDatabase(newtask, userid)
 
-    if (!taskCreated) return response(500, "Erro ao criar tarefa. Contate o suporte.", true, {}, res);
+    if (!taskCreated) return response(500, "Erro ao criar tarefa. Contate o suporte.", true, { userid }, res);
 
     return response(200, "Tarefa adicionada com sucesso.", false, {}, res);
 }

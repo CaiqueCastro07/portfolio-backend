@@ -12,7 +12,7 @@ const getTasks = async (req: Request, res: Response): Promise<Response> => {
 
     const tasks = await getTasksInDatabase(userid)
 
-    if (!tasks) return response(500, "Falha ao recuperar as tarefas. Contate o suporte", true, {}, res);
+    if (!tasks) return response(500, "Falha ao recuperar as tarefas. Contate o suporte", true, { userid }, res);
 
     return response(200, "Tarefas enviadas com sucesso.", false, tasks, res);
 }

@@ -95,5 +95,10 @@
     },
     "engines": {
         "node": ">=14.0.0"
+    },
+    "jest": {
+        "globals": {
+            "count": 0
+        }
     }
 }
